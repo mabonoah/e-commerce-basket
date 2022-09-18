@@ -1,0 +1,20 @@
+.product-field {
+    margin-bottom: .5rem;
+
+    .product-label {
+        margin-inline-end: .3rem;
+    }
+}
+
+.product-item {
+    margin-bottom: .5rem;
+
+    .product-info {
+        display: inline-block;
+        margin-inline-start: .3rem;
+    }
+
+    .remove-btn {
+        margin-inline-start: .3rem;
+    }
+}
